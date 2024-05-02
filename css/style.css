@@ -1,0 +1,22 @@
+body{
+    background-color: purple;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+
+}
+h1{
+    width: 500px;
+    color: yellow;
+    border: 5px solid white;
+
+}
+
+.p2{
+    background-color: aqua;
+    color: white;
+    font-size: 40px;
+    
+}
